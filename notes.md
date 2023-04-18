@@ -18,3 +18,5 @@ JS to TS
         Thought was that this would prevent creating a js file every npm run build
     node_modules came when running npm
 2. Will create a typescript application and then add the necessary starter code.
+https://www.typescriptlang.org/docs/handbook/migrating-from-javascript.html
+- For migration from js
