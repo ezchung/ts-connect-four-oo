@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "build": "tsc connect4.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "source-map-loader": "^4.0.1",
+    "ts-loader": "^9.4.2"
+  }
+}
